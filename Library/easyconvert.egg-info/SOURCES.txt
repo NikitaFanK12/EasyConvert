@@ -1,0 +1,10 @@
+LICENSE
+README.md
+setup.py
+easyconvert/__init__.py
+easyconvert/converter.py
+easyconvert.egg-info/PKG-INFO
+easyconvert.egg-info/SOURCES.txt
+easyconvert.egg-info/dependency_links.txt
+easyconvert.egg-info/requires.txt
+easyconvert.egg-info/top_level.txt

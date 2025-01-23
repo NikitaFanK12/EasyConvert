@@ -1,0 +1,17 @@
+Metadata-Version: 2.1
+Name: easyconvert
+Version: 0.0.11a0
+Summary: With this library, you can convert files from one type to another
+Home-page: https://github.com/NikitaFanK12/EasyConvert
+Author: NikitaFanK12
+Author-email: 
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: Pillow
+
+With this library, you can convert files from
+one type to another. For example, jpg to png.
+This library is used in EasyConvert projects.
